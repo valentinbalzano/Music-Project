@@ -20,7 +20,7 @@ st.image('./LOGO_NEW.png')
 
 
 # Read df_sound csv
-df_sound = pd.read_csv('./df_sound.csv')
+df_sound = pd.read_csv('./df_users.csv')
 
 
 # Créer un dataFrame user
