@@ -3,7 +3,7 @@
 This is our hackaton project in the Wild Code School, in collaboration with Augustin Chabannes (https://github.com/Augustin-Chab), Adil Allouche (https://github.com/Adil-Allouche) and Marine Verdon (https://github.com/mantarina)
 
 
-- Create a "crush"(match) system according to the musical profile of the users. -
+- Create a "crush"(match) system according to the musical profile of the users.
 
 Music database analysis (Spotify)
 
